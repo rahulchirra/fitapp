@@ -1,3 +1,25 @@
+# FitApp 🏋️‍♂️
+
+A React + Vite-based fitness web app featuring exercise cards, workouts, stats widgets, YouTube integration, and more.
+
+## 🚀 Live Demo
+
+👉 [https://rahulchirra.github.io/fitapp/](https://rahulchirra.github.io/fitapp/)
+
+## 📦 Features
+
+- Exercise Cards
+- Workout Categories
+- Stopwatch & Countdown
+- Health Stats Widgets
+- YouTube Video Search
+
+## 📜 License
+
+MIT
+
+---
+
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
